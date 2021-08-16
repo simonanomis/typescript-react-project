@@ -1,6 +1,8 @@
 # typescript-react-project
 
-** To start a new Create React App project with TypeScript, you can run:**
+# This is simple TODO app
+
+**To start a new Create React App project with TypeScript, you can run:**
 npm install -g create-react-project
 create-react-app . --template typescript
 
