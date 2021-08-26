@@ -1,4 +1,5 @@
 # This is simple TODO app
+This is simple TODO app
 
 **To start a new Create React App project with TypeScript, you can run:**
 npm install -g create-react-project
