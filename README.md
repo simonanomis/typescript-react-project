@@ -1,5 +1,3 @@
-# typescript-react-project
-
 # This is simple TODO app
 
 **To start a new Create React App project with TypeScript, you can run:**
