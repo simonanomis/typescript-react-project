@@ -14,3 +14,5 @@ With this it spits out the js file from ts file.
 `npm start`
 
 **Run**: tsc OR tsc -w
+
+![img.png](img.png)
